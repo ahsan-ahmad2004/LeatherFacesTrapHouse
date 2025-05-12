@@ -414,6 +414,20 @@
 "Assets/BasicHorrorGameAssets-20250510T101747Z-1-001/BasicHorrorGameAssets/Scripts/PlayerController.cs"
 "Assets/BasicHorrorGameAssets-20250510T101747Z-1-001/BasicHorrorGameAssets/Scripts/Sway.cs"
 "Assets/BasicHorrorGameAssets-20250510T101747Z-1-001/BasicHorrorGameAssets/Scripts/UseChest.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/CFX_AutoStopLoopedEffect.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_RandomDir.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_RotateCamera.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_Translate.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_DeleteAfterDelay.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_New.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_RandomDir.cs"
+"Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_Wall.cs"
+"Assets/JMO Assets/WarFX/Scripts/CFX_AutoDestructShuriken.cs"
+"Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs"
+"Assets/JMO Assets/WarFX/Scripts/WFX_BulletHoleDecal.cs"
+"Assets/JMO Assets/WarFX/Scripts/WFX_LightFlicker.cs"
+"Assets/JMO Assets/WarFX/Spawn System/CFX_SpawnSystem.cs"
 -langversion:9.0
 /deterministic
 /optimize+
